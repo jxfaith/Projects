@@ -1,0 +1,1 @@
+E:\repos\Projects\Numbers\pi_digits\pi_digits\bin\Debug\pi_digits.exe.config
